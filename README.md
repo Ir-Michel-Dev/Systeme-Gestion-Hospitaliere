@@ -23,27 +23,38 @@ Cette solution permet de centraliser les informations des patients, d'améliorer
 ## 3. Captures d'écran
 
 ### Tableau de bord principal
-
-![Accueil](HÔPITAL%20ACCUEIL2.PNG)
+<p align="center">
+  <img src="HOPITAL ACCUEIL2.jpg" width="250">
+</p>
 
 ### Gestion des patients
-
+<p align="center">
+  <img src="HOPITAL PATIENT3.jpg" width="250">
+</p>
 
 ### Consultation médicale
-
+<p align="center">
+  <img src="HOPITAL CONSULTATION4.jpg" width="250">
+</p>
 
 
 ### Facturation et paiements
-
+<p align="center">
+  <img src="HOPITAL PAIEMENT 5.jpg" width="250">
+</p>
 
 
 ### Rapports et statistiques
-
+<p align="center">
+  <img src="HOPITAL BASE DE DONNEE.jpg" width="250">
+</p>
 
 
 ### Preuve de paiement
 
-
+<p align="center">
+  <img src="HOPITAL RECU 6.jpg" width="250">
+</p>
 
 ## 4. Architecture du système
 
