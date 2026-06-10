@@ -24,25 +24,27 @@ Cette solution permet de centraliser les informations des patients, d'améliorer
 
 ### Tableau de bord principal
 
-*Insérer la capture d'écran de la page d'accueil.*
+*HOPITAL ACCUEIL2.PNG*
 
 ### Gestion des patients
 
-*Insérer la capture d'écran du formulaire des patients.*
+*HOPITAL PATIENT3.PNG*
 
 ### Consultation médicale
 
-*Insérer la capture d'écran du module de consultation.*
+*HOPITAL CONSULTATION4.PNG*
 
 ### Facturation et paiements
 
-*Insérer la capture d'écran du module de facturation.*
+*HOPITAL PAIEMENT5.PNG*
 
 ### Rapports et statistiques
 
-*Insérer la capture d'écran des rapports.*
+*HOPITAL BASE DE DONNEE.PNG*
 
----
+### Preuve de paiement
+
+*HOPITAL RECU 6.PNG*
 
 ## 4. Architecture du système
 
