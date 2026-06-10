@@ -22,29 +22,31 @@ Cette solution permet de centraliser les informations des patients, d'améliorer
   
 ## 3. Captures d'écran
 
+## 3. Captures d'écran
+
 ### Tableau de bord principal
 
-*HOPITAL ACCUEIL2.PNG*
+![Tableau de bord principal](HOPITAL-ACCUEIL2.PNG)
 
 ### Gestion des patients
 
-*HOPITAL PATIENT3.PNG*
+![Gestion des patients](PATIENT-HOPITAL3.PNG)
 
 ### Consultation médicale
 
-*HOPITAL CONSULTATION4.PNG*
+![Consultation médicale](CONSULTATION-HOSPITALIERE4.PNG)
 
 ### Facturation et paiements
 
-*HOPITAL PAIEMENT5.PNG*
+![Paiement](PAIEMENT-HOPITAL5.PNG)
 
 ### Rapports et statistiques
 
-*HOPITAL BASE DE DONNEE.PNG*
+![Base de données](HOPITAL-BASE-DE-DONNEE.PNG)
 
 ### Preuve de paiement
 
-*HOPITAL RECU 6.PNG*
+![Reçu](HOPITAL-RECU6.PNG)
 
 ## 4. Architecture du système
 
