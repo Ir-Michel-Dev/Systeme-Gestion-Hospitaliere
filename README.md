@@ -24,36 +24,36 @@ Cette solution permet de centraliser les informations des patients, d'améliorer
 
 ### Tableau de bord principal
 <p align="center">
-  <img src="HOPITAL ACCUEIL2.jpg" width="250">
+  <img src="HOPITAL ACCUEIL2.PNG" width="250">
 </p>
 
 ### Gestion des patients
 <p align="center">
-  <img src="HOPITAL PATIENT3.jpg" width="250">
+  <img src="HOPITAL PATIENT3.PNG" width="250">
 </p>
 
 ### Consultation médicale
 <p align="center">
-  <img src="HOPITAL CONSULTATION4.jpg" width="250">
+  <img src="HOPITAL CONSULTATION4.PNG" width="250">
 </p>
 
 
 ### Facturation et paiements
 <p align="center">
-  <img src="HOPITAL PAIEMENT 5.jpg" width="250">
+  <img src="HOPITAL PAIEMENT 5.PNG" width="250">
 </p>
 
 
 ### Rapports et statistiques
 <p align="center">
-  <img src="HOPITAL BASE DE DONNEE.jpg" width="250">
+  <img src="HOPITAL BASE DE DONNEE.PNG" width="250">
 </p>
 
 
 ### Preuve de paiement
 
 <p align="center">
-  <img src="HOPITAL RECU 6.jpg" width="250">
+  <img src="HOPITAL RECU 6.PNG" width="250">
 </p>
 
 ## 4. Architecture du système
