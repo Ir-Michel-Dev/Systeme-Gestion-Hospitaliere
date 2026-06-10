@@ -70,9 +70,6 @@ Le système utilise une base de données centralisée permettant le partage séc
 ### Fonctionnement
 
 Patient → Réception → Consultation → Facturation → Paiement → Rapport
-
 Cette architecture permet un suivi complet du parcours du patient tout en assurant une meilleure gestion administrative et financière de l'établissement de santé.
 
----
-
-**Développé par DigitalSoft Congo**
+**Développé par Ir Michel Jules Kabinda**
